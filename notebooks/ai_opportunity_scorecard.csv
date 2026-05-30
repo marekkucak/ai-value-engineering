@@ -1,0 +1,16 @@
+workflow,source_lesson,value,frequency,reviewability,data_availability,risk,integration_complexity,change_resistance,score,priority,annual_saving_eur,impl_cost_eur,payback_months,wave
+saas_usage_monitoring,L10,6,9,9,9,2,2,2,546.8,HIGH,12000,3000,3.0,1.0
+ar_aging_alerts,L09,9,9,9,9,3,3,3,243.0,HIGH,45000,5000,1.3,1.0
+duplicate_tool_detection,L10,7,5,9,8,2,2,4,157.5,HIGH,24000,4000,2.0,1.0
+support_summary,L06,8,10,9,7,5,4,3,84.0,HIGH,38400,8000,2.5,1.0
+invoice_triage,L06,9,9,8,8,4,5,4,64.8,HIGH,28000,12000,5.1,2.0
+lead_qualification,L07,8,9,7,7,3,4,5,58.8,HIGH,22000,9000,4.9,1.0
+dso_prediction,L09,7,6,7,7,4,4,3,42.9,HIGH,18000,8000,5.3,1.0
+onboarding_doc_review,L07,6,7,8,6,4,3,4,42.0,HIGH,12000,6000,6.0,1.0
+cash_flow_forecasting,L09,8,7,7,8,5,4,4,39.2,HIGH,30000,12000,4.8,2.0
+bridge_automation_crm,L10,6,9,7,7,3,5,5,35.3,HIGH,14000,8000,6.9,1.0
+contract_extraction,L07,7,6,8,6,5,4,4,25.2,HIGH,18000,11000,7.3,2.0
+mgmt_reporting_automation,L06,7,6,7,8,4,5,5,23.5,MEDIUM,16100,10000,7.5,1.0
+data_reconciliation,L08,7,8,7,7,6,6,4,19.1,MEDIUM,20000,14000,8.4,2.0
+access_review_automation,L08,7,6,8,9,7,6,5,14.4,MEDIUM,16000,15000,11.2,3.0
+compliance_review,L08,6,5,6,6,8,5,6,4.5,DEFER,15000,20000,16.0,
